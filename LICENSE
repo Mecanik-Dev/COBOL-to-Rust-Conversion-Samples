@@ -1,0 +1,26 @@
+Copyright (c) 2026 Mecanik Dev. All rights reserved.
+
+TERMS OF USE
+
+The COBOL source files and transpiled output code in this repository are provided
+by Mecanik Dev solely for demonstration and educational purposes. They illustrate
+the capabilities of Easy COBOL Migrator (https://mecanik.dev/en/products/easy-cobol-migrator/).
+
+You MAY:
+- View, read, and study the code samples in this repository.
+- Reference the samples in articles, reviews, or evaluations of Easy COBOL Migrator.
+- Fork this repository on GitHub for personal, non-commercial reference.
+
+You MAY NOT:
+- Use any transpiled output code from this repository in production systems,
+  commercial products, or any deployed software.
+- Redistribute, sublicense, or sell the code samples, in whole or in part.
+- Use the code samples to train machine learning models or AI systems.
+- Remove or alter any copyright notices or license headers.
+
+THE CODE SAMPLES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL MECANIK DEV BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THESE CODE SAMPLES.
+
+For a license to use Easy COBOL Migrator to generate your own transpiled code from
+your own COBOL sources, visit: https://mecanik.dev/en/products/easy-cobol-migrator/

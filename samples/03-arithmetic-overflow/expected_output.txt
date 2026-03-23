@@ -1,0 +1,9 @@
+=== ON SIZE ERROR TESTS ===
+Case A: WS-SMALL=000 overflow=1
+Case B: WS-LARGE=0001001 overflow=0
+Case C: WS-SMALL=000 overflow=1
+Case D: WS-SMALL=000 overflow=1
+Case E: WS-SMALL=000 overflow=1
+Case F: WS-SMALL=000 overflow=1
+Case G: WS-SMALL=000 overflow=1
+Case H: WS-SIGNED=-005 overflow=0

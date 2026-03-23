@@ -1,0 +1,12 @@
+=== EDITED NUMERIC TESTS ===
+Edit1 (large):  [ 12,345.67]
+Edit1 (small):  [     42.50]
+Edit1 (neg):    [- 1,234.56]
+Edit2 (large):  [$12,345.67]
+Edit2 (small):  [    $42.50]
+Edit3 (large):  [*12345.67]
+Edit3 (small):  [****42.50]
+Edit4 (large):  [12,345.67]
+Edit4 (small):  [    42.50]
+BWZ (zero):     [        ]
+BWZ (nonzero):  [    42.50]
